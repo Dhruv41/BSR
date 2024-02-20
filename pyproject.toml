@@ -4,10 +4,9 @@ build-backend = "hatchling.build"
 [project]
 name = "MyPackage"
 authors = [
-                {name = "Dhruv",
-                    email = "dhruvsharrma@gmail.com"
-                },
+    { name = "Dhruv41", email = "dhruvsharrma@gmail.com" }
 ]
+
 description = "A very basic Python package"
 version = "0.1.0"
 dependencies = ["matplotlib", "pandas","argparse","yaml","logging", "typing"]
