@@ -1,0 +1,28 @@
+user_preferences:
+genere: 
+- 'Hip-Hop'
+- 'Pop'
+- 'Country'
+- 'Charts'
+- 'Francophone'
+- 'GLOW'
+- 'Rock'
+- 'Frequency'
+
+country_name:
+- US
+- BR
+- CA
+- IN
+
+Artists:
+
+- The Weeknd
+- Drake
+- Justin Beiber
+- Jason Derulo
+- Jay Sean
+- Lil Wayne
+- Eminem
+- Taylor Swift
+- Ariana Grande
