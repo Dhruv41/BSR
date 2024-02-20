@@ -5,6 +5,7 @@ import logging
 from typing import Any, Dict
 import matplotlib.pyplot as plt
 import argparse
+import pandas as pd
 
 class Analysis():
     """
